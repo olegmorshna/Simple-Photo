@@ -1,0 +1,84 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+.menu{
+    margin: 0;
+    padding-inline-start: 0;
+    text-align: center;
+}
+.menu-item{
+    display: inline-block;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.menu-link{
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 2.7px;
+    text-transform: uppercase;
+    color: #FF0000;
+    font-size: 18px;
+    padding-left: 72px;
+}
+
+.menu-last-link{
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 2.7px;
+    text-transform: uppercase;
+    color: #FF0000;
+    font-size: 18px;
+    padding-left: 50px;
+}
+
+h2{
+    color: #373737;
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    letter-spacing: 3.3px;
+    text-transform: uppercase;
+    margin: 48px 253px 38px 253px;
+}
+
+.description{
+    text-align: center;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 2.4px;
+    color: #373737;
+    margin: 0px 67.5px 28px;
+}
+
+.form{
+    text-align: center;
+    margin-bottom: 82px;
+    margin-top: 66px;
+}
+
+.form-btn{
+    background: #FF0000;
+    border-radius: 4px;
+    border: none;
+    width: 191px;
+    height: 51px;
+    color: #FFFFFF;
+    letter-spacing: 1.8px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.footer{
+    text-align: right;
+    padding: 19px 0;
+}
+.copyright{
+    margin:105px;
+    font-weight: bold;
+    font-size: 16px;
+    letter-spacing: 2.4px;
+    color: #373737;
+}
